@@ -10,6 +10,8 @@ It's NSL-KDD which is the database with a lots of values like PROBING 、 dos �
 With Machine Learning , It's useful to IDA/IDS.
 
 spam_emails_which_is_my_midexam_and_my_retry.ipynb is that I did the extra exercise
+
 Also, it my mid exam report.
 I found it from kaggle.
+
 the url：https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
