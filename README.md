@@ -3,7 +3,7 @@ I found that I can push code from colab here, so I created this
 
 However, I'am just a noob, and I always used ChatGPT to help me
 
-## About file
+## About the file I uploads
 
 retry_book.ipynb is that I chosed the chapter 5 of book and did the exercise.
 It's NSL-KDD which is the database with a lots of values like PROBING 、 dos 、 R2L 、 U2R...
